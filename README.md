@@ -5,7 +5,7 @@ homework for 9/26
 Animation Practice Answers:
 (1) Code line 11 draws the blades of grass ( line(x, height-10, x + random(-10, 10), height-10-random(h))
 
-(2) Line 23 makes the "lawnmower" come by. It comes by when the grass reaches a certain height, the first time when it fills the canvas and the rest of the time it comes by when its above the middle of the canvas.
+(2) Line 20 makes the "lawnmower" come by. It comes by when the grass reaches a certain height, the first time when it fills the canvas and the rest of the time it comes by when its above the middle of the canvas.
 
 (3) the H variable represents the height of the blades of grass 
 
